@@ -8,7 +8,7 @@ public class AddRequest {
      * 커스텀 구분자 시작위치 신호와 끝 신호
      */
     private final String START_SEPARATOR = "//";
-    private final String END_SEPARATOR = "\n";
+    private final String END_SEPARATOR = "\\n";
 
     /**
      * 입력값
