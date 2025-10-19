@@ -11,6 +11,6 @@ public class Application {
 
         int result = calculator.calc(request.getNumbers());
 
-        System.out.println(result);
+        System.out.println("결과 : " + result);
     }
 }
